@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("gitee commit");
         System.out.println("gitee pull");
+        System.out.println("gitlib push");
     }
 }
